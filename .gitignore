@@ -1,0 +1,13 @@
+.idea
+bower_components
+node_modules
+
+.DS_Store
+
+api/publish
+
+web/dist
+web/scripts/**/*.js
+web/bundle.js
+web/components.vulcanized.html
+web/typings
